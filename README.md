@@ -15,3 +15,6 @@ configurations and statistical distributions. This project
 contributes to the understanding of complex network dynamics 
 and offers insights into the application of machine learning 
 techniques for analyzing network behavior and longevity. 
+## Project Structure
+report.pdf: Reports on the findings and methodology.
+src: Contains the source code for the project.
